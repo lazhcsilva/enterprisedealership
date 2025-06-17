@@ -1,4 +1,4 @@
-# Interprise Dealership
+# Enterprise Dealership
 Study project for the creation of a car and motorcycle rental dealership
 
 ## Technologies Used
